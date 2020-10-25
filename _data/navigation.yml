@@ -1,0 +1,12 @@
+nav:
+  - title: "Serviços"
+    section: services
+
+  - title: "Portfolio"
+    section: portfolio
+    
+  - title: "Sobre Nós"
+    section: timeline
+
+  - title: "Contacte-nos"
+    section: contact

@@ -1,0 +1,77 @@
+header:
+    title: Cuidar é Amar
+    text: Cuide de si e dos seus
+    button: Tell Me More
+    buttonlink: "#services"
+
+services:
+    title: "Services"
+    text: "Lorem ipsum"
+    section: services
+    list:
+      - title: "E-Commerce"
+        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
+        icon: fas fa-shopping-cart #find more at https://fontawesome.com/icons
+      - title: "Responsive Design"
+        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
+        icon: fas fa-laptop       
+      - title: "[Markdown](https://en.wikipedia.org/wiki/Markdown)"
+        desc: "Your description here, full **Markdown** support"
+        icon: fab fa-markdown
+
+portfolio:
+    title: "Portfolio"
+    text: "Lorem ipsum dolor sit amet consectetur."
+    section: portfolio
+    closebutton: "Close Project"
+    
+
+timeline:
+    title: "Sobre Nós" 
+    text: "Somos a sua empresa, especializada em geriatria, disponível para satisfazer todas as suas necessidades. 
+    <br><br>Realizamos uma avaliação gratuita ao seu domicilio, sem compromisso, para que seja possivel perceber as suas necessidades"
+    section: timeline
+    events:
+      - title: "Fundação da Cuidamar"
+        year: "2020"
+        desc: "O ano de 2020 foi um ano que atingiu todo o Mundo com a Pandemia Covid-19. 
+              Contudo, este acontecimento só fortaleceu ainda mais a vontade da nossa equipa em fundar
+              a Cuidamar, de forma a cuidar e dar um pouco de amor e empatia, numa altura em que as 
+              pessoas muito precisavam."
+        image: assets/img/timeline/1.jpg
+        alt: 
+        align: left
+      - title: "An Agency is Born"
+        year: "March 2011"
+        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!"
+        image: assets/img/timeline/2.jpg
+        alt: 
+        align: right     
+    end: "Faça parte <br> da nossa </br> História!"
+
+about:
+    title: "Sobre Nós"
+    text: "Empresa especializada em geriatria disponível para satisfazer todas as suas necessidades. Realizamos uma avaliação gratuita ao seu domicilio, sem compromisso, para que seja possivel perceber as suas necessidades"
+    section: about
+
+contact:
+    title: "Contacte-nos"
+    text: "Lorem ipsum or call 123456789"
+    section: contact
+    
+footer:
+    legal: "Privacy Policy"
+    social:
+      - url: https://twitter.com
+        icon: "fab fa-twitter"  
+      - url: https://facebook.com
+        icon: "fab fa-facebook-f"
+      - url: https://linkedin.com
+        icon: "fab fa-linkedin-in"
+      - url: https://github.com/raviriley/agency-jekyll-theme
+        icon: "fab fa-github"
+      - url: https://instagram.com
+        icon: "fab fa-instagram"
+
+
+# {{ site.data.sitetext.ex.ex | markdownify | default: example }}
