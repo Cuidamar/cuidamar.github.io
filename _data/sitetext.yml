@@ -28,9 +28,9 @@ timeline:
         image: assets/img/timeline/1.jpg
         alt: 
         align: left
-      - title: "An Agency is Born"
-        year: "March 2011"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!"
+      - title: "O Primeiro Cliente"
+        year: "2020"
+        desc: "A Cuidamar serve o seu primeiro cliente com a motivação, entusiasmo, profissionalismo e empatia, pela qual quer que a empresa seja reconhecida."
         image: assets/img/timeline/2.jpg
         alt: 
         align: right     

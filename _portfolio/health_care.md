@@ -19,4 +19,3 @@ Divisão da medicação semanal pelos horarios de uma forma organizada e compree
 <!-- - Date: January 2017 -->
 <!-- - Client: Threads -->
 <!-- - Category: Illustration -->
-
