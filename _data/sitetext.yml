@@ -15,8 +15,11 @@ A nossa equipa é composta por profissionais de saúde que gostam de cuidar, sem
 
 timeline:
     title: "Sobre Nós" 
-    text: "Somos a sua empresa, especializada em geriatria, disponível para satisfazer todas as suas necessidades. 
-    <br><br>Realizamos uma avaliação gratuita ao seu domicilio, sem compromisso, para que seja possivel perceber as suas necessidades"
+    text: "A CuidaMar é uma empresa de prestação de serviços de saúde que dispõe de cuidados especializados de Enfermagem ao domicilio. 
+          Atuamos ao domicílio nas áreas de Vila Nova de Famalicão, Braga, Guimarães e Trofa. Dispomos de uma vasta equipa de profissionais de saúde especializados, 
+            que garantem um acompanhamento e serviços de qualidade. 
+          <br><br>Dedicamo-nos a cuidar de de si com amor sem que saia do conforto do seu lar, trabalhamos todos os dias pela sua saúde e bem estar. 
+          <br><br>Estamos disponiveis todos os dias 24h/dia."
     section: timeline
     events:
       - title: "Fundação da Cuidamar"
@@ -43,7 +46,15 @@ about:
 
 contact:
     title: "Contacte-nos"
-    text: "Lorem ipsum or call 123456789"
+    text: '<p style="color:#DCDCDC">Estamos ao seu dispôr sempre que necessitar. Contacto: 917694378<br>
+          Envie-nos um email para esclarecer todas as suas dúvidas e pedir um orçamento!<br><br>
+          <b>Áreas Geográficas de Atuação:</b><br>
+            - Vila Nova de Famalicão<br>
+            - Barcelos<br>
+            - Trofa<br>
+            - Braga<br>
+            - Guimarães<br>
+            - Para outras áreas faremos uma análise após contacto.</p>'
     section: contact
     
 footer:
