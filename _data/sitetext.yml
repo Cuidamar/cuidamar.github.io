@@ -1,14 +1,16 @@
 header:
     title: Cuidar é Amar
     text: Cuide de si e dos seus
-    button: Tell Me More
+    button: Saber Mais
     buttonlink: "#portfolio"
 
 portfolio:
-    title: "Portfolio"
-    text: "Lorem ipsum dolor sit amet consectetur."
+    title: "Serviços"
+    text: "Na prestação de cuidados de enfermagem, um enfermeiro aborda o utente de forma holistica, tendo em conta os aspetos fisicos, psicológicos e emocionais. 
+Para além dos serviços prestados na nossa empresa, o enfermeiro tem como compromisso escutar e confortar o utente e a familia. 
+A nossa equipa é composta por profissionais de saúde que gostam de cuidar, sempre com um sorriso."
     section: portfolio
-    closebutton: "Close Project"
+    closebutton: "Fechar"
     
 
 timeline:

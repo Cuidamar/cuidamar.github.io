@@ -1,0 +1,22 @@
+---
+title: Cuidados de Saúde Primários
+subtitle: Tratamento de feridas, administração de injetáveis, avaliaçao de Sinais vitais e preparação de medicação semanal
+image: https://raw.githubusercontent.com/BlackrockDigital/startbootstrap-agency/master/src/assets/img/portfolio/01-full.jpg
+alt: Shirts on a hanger
+
+caption:
+  title: Cuidados de Saúde Primários
+  subtitle: Tratamento de feridas, administração de injetáveis, avaliaçao de Sinais vitais e preparação de medicação semanal
+  thumbnail: https://raw.githubusercontent.com/BlackrockDigital/startbootstrap-agency/master/src/assets/img/portfolio/01-thumbnail.jpg
+---
+Tratamento de úlceras, feridas cirúrgicas e feridas traumáticas com as técnicas adequadas e de acordo com os antecedentes dos utentes.
+Administração de injetáveis intramuscular, endovenosa e subcutãnea.
+Avaliação da tensão arterial, frequência cardiaca, saturação de oxigénio e glicemia capilar.  
+Avaliamos também o peso e altura, perimetro abdominal e o  IMC do utente. 
+Divisão da medicação semanal pelos horarios de uma forma organizada e compreensivel para o utente e cuidador de forma a prevenir esquecimentos, sobredosagens e acidentes. 
+
+<!-- {:.list-inline} -->
+<!-- - Date: January 2017 -->
+<!-- - Client: Threads -->
+<!-- - Category: Illustration -->
+
