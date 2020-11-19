@@ -20,8 +20,8 @@ title      : Cuidamar
 email      : zezinho_charuto@hotmail.com #this is also the email contact forms will go to
 description: "Site description"
 author     : Cuidamar
-# logo:     #optional, defaults to site title
-  # path: assets\img\clients\creative-market.jpg
+logo:     #optional, defaults to site title
+  path: assets\img\cuidamar_logo.png
   # height: 60 #height in px, defaults to 52px
 
 analytics:
