@@ -16,7 +16,7 @@ A nossa equipa é composta por profissionais de saúde que gostam de cuidar, sem
 timeline:
     title: "Sobre Nós" 
     text: "A CuidaMar é uma empresa de prestação de serviços de saúde que dispõe de cuidados especializados de Enfermagem ao domicilio. 
-          Atuamos ao domicílio nas áreas de Vila Nova de Famalicão, Braga, Guimarães e Trofa. Dispomos de uma vasta equipa de profissionais de saúde especializados, 
+          Atuamos ao domicílio nas áreas de Vila Nova de Famalicão, Braga, Guimarães, Trofa e Santo Tirso. Dispomos de uma vasta equipa de profissionais de saúde especializados, 
             que garantem um acompanhamento e serviços de qualidade. 
           <br><br>Dedicamo-nos a cuidar de de si com amor sem que saia do conforto do seu lar, trabalhamos todos os dias pela sua saúde e bem estar. 
           <br><br>Estamos disponiveis todos os dias 24h/dia."
@@ -41,7 +41,7 @@ timeline:
 
 about:
     title: "Sobre Nós"
-    text: "Empresa especializada em geriatria disponível para satisfazer todas as suas necessidades. Realizamos uma avaliação gratuita ao seu domicilio, sem compromisso, para que seja possivel perceber as suas necessidades"
+    text: ""
     section: about
 
 contact:
@@ -52,6 +52,7 @@ contact:
             - Vila Nova de Famalicão<br>
             - Barcelos<br>
             - Trofa<br>
+            - Santo Tirso<br>
             - Braga<br>
             - Guimarães<br>
             - Para outras áreas faremos uma análise após contacto.</p>'

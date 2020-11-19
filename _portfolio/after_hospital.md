@@ -1,11 +1,11 @@
 ---
 caption: #what displays in the portfolio grid:
-  title: Acompanhamento no pós-alta hospitalar, a consultas e necessidades extra lar
+  title: Acompanhamento no pós-alta Hospitalar
   subtitle: Reintroduçao no dia a dia
   thumbnail: https://place-hold.it/400x300
   
 #what displays when the item is clicked:
-title: Acompanhamento domiciliário diurno e noturno
+title: Acompanhamento no pós-alta Hospitalar
 subtitle: Reintroduçao no dia a dia
 image: https://place-hold.it/400x300 #main image, can be a link or a file in assets/img/portfolio
 alt: image alt text
