@@ -22,7 +22,7 @@ description: "Site description"
 author     : Cuidamar
 logo:     #optional, defaults to site title
   path: assets\img\cuidamar_logo.png
-  # height: 60 #height in px, defaults to 52px
+  height: 60 #height in px, defaults to 52pxS
 
 analytics:
   google: #Google Analytics tracking code here
