@@ -1,13 +1,13 @@
 ---
 title: Cuidados de Saúde Primários
 subtitle: Tratamento de Feridas, Administração de Injetáveis, Avaliaçao de Sinais Vitais e Medicação Semanal
-image: https://raw.githubusercontent.com/BlackrockDigital/startbootstrap-agency/master/src/assets/img/portfolio/01-full.jpg
+image: assets/img/portfolio/health_care.jpg
 alt: Shirts on a hanger
 
 caption:
   title: Cuidados de Saúde Primários
   subtitle: Tratamento de Feridas, Administração de Injetáveis, Avaliaçao de Sinais Vitais e Medicação Semanal
-  thumbnail: https://raw.githubusercontent.com/BlackrockDigital/startbootstrap-agency/master/src/assets/img/portfolio/01-thumbnail.jpg
+  thumbnail: assets/img/portfolio/health_care.jpg
 ---
 Tratamento de úlceras, feridas cirúrgicas e feridas traumáticas com as técnicas adequadas e de acordo com os antecedentes dos utentes.
 Administração de injetáveis intramuscular, endovenosa e subcutãnea.
