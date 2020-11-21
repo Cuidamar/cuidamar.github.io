@@ -17,8 +17,8 @@ url    : "" # the base hostname & protocol for your site, e.g. http://example.co
 baseurl: "" # the subpath of your site, e.g. /blog
 
 title      : CuidAmar 
-email      : zezinho_charuto@hotmail.com #this is also the email contact forms will go to
-description: "Site description"
+email      : geral@cuidamar.pt #this is also the email contact forms will go to
+description: "CuidAmar"
 author     : CuidAmar
 logo:     #optional, defaults to site title
   path: assets\img\cuidamar_logo.png
