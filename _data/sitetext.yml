@@ -66,8 +66,8 @@ footer:
       #  icon: "fab fa-twitter"  
       - url: https://www.facebook.com/CuidAmar-103441871599133
         icon: "fab fa-facebook-f"
-      - url: https://linkedin.com
-        icon: "fab fa-linkedin-in"
+      #- url: https://linkedin.com
+      #  icon: "fab fa-linkedin-in"
       #- url: https://github.com/raviriley/agency-jekyll-theme
       #  icon: "fab fa-github"
       - url: https://www.instagram.com/cuidamar_pt/
