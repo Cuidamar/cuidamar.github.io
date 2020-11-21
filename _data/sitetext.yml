@@ -28,13 +28,13 @@ timeline:
               Contudo, este acontecimento só fortaleceu ainda mais a vontade da nossa equipa em fundar
               a CuidAmar, de forma a cuidar e dar um pouco de amor e empatia, numa altura em que as 
               pessoas muito precisavam."
-        image: assets/img/timeline/1.jpg
+        image: assets/img/timeline/cuidamar_logo.jpg
         alt: 
         align: left
       - title: "O Primeiro Cliente"
         year: "2020"
         desc: "A CuidAmar serve o seu primeiro cliente com a motivação, entusiasmo, profissionalismo e empatia, pela qual quer que a empresa seja reconhecida."
-        image: assets/img/timeline/2.jpg
+        image: assets/img/timeline/cuidamar_logo.jpg
         alt: 
         align: right     
     end: "Faça parte <br> da nossa </br> História!"
