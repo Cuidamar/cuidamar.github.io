@@ -46,9 +46,7 @@ about:
 
 contact:
     title: "Contacte-nos"
-    text: '<p style="color:#DCDCDC">Estamos ao seu dispôr sempre que necessitar. <br><br>
-          Telemóvel: 961602726 | Email: geral@cuidamar.pt<br><br>
-          Ligue já ou envie-nos um email para esclarecer todas as suas dúvidas e pedir um orçamento!<br><br>
+    text: '<p style="color:#DCDCDC";text-align:justify>Estamos ao seu dispôr sempre que necessitar. <br><br>
           <b>Áreas Geográficas de Atuação:</b><br>
             - Vila Nova de Famalicão<br>
             - Barcelos<br>
@@ -56,7 +54,9 @@ contact:
             - Santo Tirso<br>
             - Braga<br>
             - Guimarães<br>
-            - Para outras áreas faremos uma análise após contacto.</p>'
+            - Para outras áreas faremos uma análise após contacto. <br><br>
+          Contacte-nos através do formulário abaixo para esclarecer todas as suas dúvidas e pedir um orçamento!<br>
+          Alternativamente pode usar os seguintes contactos: Telemóvel: 961602726 | Email: geral@cuidamar.pt</p>'
     section: contact
     
 footer:
