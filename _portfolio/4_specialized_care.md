@@ -12,7 +12,7 @@ alt: image alt text
 
 ---
 - Banho no leito ou wc, hidratação cutânea, higiene oral, cabelo, unhas, barba e maquiagem. <br>
-- Todos os cuidados têm o intuito de fomentar a autonomio e o bem estar do utente.
+- Todos os cuidados têm o intuito de fomentar a autonomia e o bem estar do utente.
 
 <!-- optional info list (delete if not using): -->
 
