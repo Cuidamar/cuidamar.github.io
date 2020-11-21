@@ -11,7 +11,8 @@ image: assets/img/portfolio/specialized_care.jpg #main image, can be a link or a
 alt: image alt text
 
 ---
-Banho no leito ou wc, hidratação cutânea, higiene oral, cabelo, unhas, barba, maquiagem e restabelecimento de autonomia.
+- Banho no leito ou wc, hidratação cutânea, higiene oral, cabelo, unhas, barba e maquiagem. <br>
+- Todos os cuidados têm o intuito de fomentar a autonomio e o bem estar do utente.
 
 <!-- optional info list (delete if not using): -->
 

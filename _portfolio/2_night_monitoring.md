@@ -11,7 +11,8 @@ image: assets/img/portfolio/elderly.jpg #main image, can be a link or a file in 
 alt: image alt text
 
 ---
-Ajuda nas tarefas diárias, posicionamentos e transferências, acompanhamento noturno. 
+- Ajuda nas tarefas diárias, posicionamentos, transferências e estimulação cognitiva. <br>
+- Acompanhamento diuno e noturno. 
 
 <!-- optional info list (delete if not using): -->
 

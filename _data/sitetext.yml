@@ -6,7 +6,7 @@ header:
 
 portfolio:
     title: "Serviços"
-    text: "Na prestação de cuidados de enfermagem, um enfermeiro aborda o utente de forma holistica, tendo em conta os aspetos fisicos, psicológicos e emocionais. <br>
+    text: "Na prestação de cuidados de enfermagem, um enfermeiro aborda o utente de forma holistica, tendo em conta os aspetos fisicos, psicológicos e emocionais. <br><br>
 Para além dos serviços prestados na nossa empresa, o enfermeiro tem como compromisso escutar e confortar o utente e a familia. 
 A nossa equipa é composta por profissionais de saúde que gostam de cuidar, sempre com um sorriso."
     section: portfolio
@@ -15,25 +15,25 @@ A nossa equipa é composta por profissionais de saúde que gostam de cuidar, sem
 
 timeline:
     title: "Sobre Nós" 
-    text: "A CuidaMar é uma empresa de prestação de serviços de saúde que dispõe de cuidados especializados de Enfermagem ao domicilio. 
-          Atuamos ao domicílio nas áreas de Vila Nova de Famalicão, Braga, Guimarães, Trofa e Santo Tirso. Dispomos de uma vasta equipa de profissionais de saúde especializados, 
+    text: "A CuidAmar é uma empresa de prestação de serviços de saúde que dispõe de cuidados especializados de Enfermagem ao Domicílio. 
+          Atuamos ao domicílio nas áreas de Vila Nova de Famalicão, Santo Tirso, Braga, Guimarães, Barcelos e Trofa. Dispomos de uma equipa de profissionais de saúde especializados, 
             que garantem um acompanhamento e serviços de qualidade. 
-          <br><br>Dedicamo-nos a cuidar de de si com amor sem que saia do conforto do seu lar, trabalhamos todos os dias pela sua saúde e bem estar. 
+          <br><br>Dedicamo-nos a cuidar de de si com amor sem que saia do conforto do seu lar. Trabalhamos todos os dias pela sua saúde e bem-estar. 
           <br><br>Estamos disponiveis todos os dias 24h/dia."
     section: timeline
     events:
-      - title: "Fundação da Cuidamar"
+      - title: "Fundação da CuidAmar"
         year: "2020"
         desc: "O ano de 2020 foi um ano que atingiu todo o Mundo com a Pandemia Covid-19. 
               Contudo, este acontecimento só fortaleceu ainda mais a vontade da nossa equipa em fundar
-              a Cuidamar, de forma a cuidar e dar um pouco de amor e empatia, numa altura em que as 
+              a CuidAmar, de forma a cuidar e dar um pouco de amor e empatia, numa altura em que as 
               pessoas muito precisavam."
         image: assets/img/timeline/1.jpg
         alt: 
         align: left
       - title: "O Primeiro Cliente"
         year: "2020"
-        desc: "A Cuidamar serve o seu primeiro cliente com a motivação, entusiasmo, profissionalismo e empatia, pela qual quer que a empresa seja reconhecida."
+        desc: "A CuidAmar serve o seu primeiro cliente com a motivação, entusiasmo, profissionalismo e empatia, pela qual quer que a empresa seja reconhecida."
         image: assets/img/timeline/2.jpg
         alt: 
         align: right     
@@ -46,8 +46,9 @@ about:
 
 contact:
     title: "Contacte-nos"
-    text: '<p style="color:#DCDCDC">Estamos ao seu dispôr sempre que necessitar. Contacto: 917694378<br>
-          Envie-nos um email para esclarecer todas as suas dúvidas e pedir um orçamento!<br><br>
+    text: '<p style="color:#DCDCDC">Estamos ao seu dispôr sempre que necessitar. <br><br>
+          Telemóvel: 961602726 | Email: geral@cuidamar.pt<br><br>
+          Ligue já ou envie-nos um email para esclarecer todas as suas dúvidas e pedir um orçamento!<br><br>
           <b>Áreas Geográficas de Atuação:</b><br>
             - Vila Nova de Famalicão<br>
             - Barcelos<br>
@@ -63,7 +64,7 @@ footer:
     social:
       #- url: https://twitter.com
       #  icon: "fab fa-twitter"  
-      - url: https://facebook.com
+      - url: https://www.facebook.com/CuidAmar-103441871599133
         icon: "fab fa-facebook-f"
       - url: https://linkedin.com
         icon: "fab fa-linkedin-in"

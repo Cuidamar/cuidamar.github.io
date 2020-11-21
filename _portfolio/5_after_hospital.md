@@ -11,9 +11,9 @@ image: assets/img/portfolio/companionship_after_hospital.jpg #main image, can be
 alt: image alt text
 
 ---
-Ajuda nas necessidades do utente restabelecendo novamente a autonomia. 
-Acompanhamento a hospitais, consultas, passeios, visita a familiares e amigos, compras, atividades socio-culturais ou outros serviços. 
-Todos estes serviços tem o intuito de fomentar a autonomia e o bem estar do utente. Tendo um profissional de saúde consigo o utente sente-se seguro na eventualidade de necessitar de alguma ajuda.
+- Ajuda nas necessidades do utente restabelecendo novamente a autonomia. <br>
+- Acompanhamento a hospitais, consultas, passeios, visita a familiares e amigos, compras, atividades socio-culturais ou outros serviços. <br>
+Tendo um profissional de saúde consigo, o utente sente-se seguro para qualquer eventualidade.
 
 <!-- optional info list (delete if not using): -->
 
