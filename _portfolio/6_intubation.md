@@ -1,15 +1,15 @@
 ---
 title: Entubações Nasogástricas, Algaliações e Aspiração de Secreções
-subtitle: Entubações
+subtitle: <br>
 image: assets/img/portfolio/intubation.jpg
 alt: Keep Exploring
 
 caption:
   title: Entubações, Algaliações e Aspiração
-  subtitle: Entubações
+  subtitle: <br><br>
   thumbnail: assets/img/portfolio/intubation.jpg
 ---
-- Entubações e algaliaçoes de curta e longa duração. <br>
+- Entubações e algaliações de curta e longa duração. <br>
 - Realização de aspiração de secreções para garantir a eficácia de trocas gasosas.
 
 <!-- {:.list-inline} -->

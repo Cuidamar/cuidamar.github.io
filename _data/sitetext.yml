@@ -56,11 +56,11 @@ contact:
             - Guimarães<br>
             - Para outras áreas faremos uma análise após contacto. <br><br>
           Contacte-nos através do formulário abaixo para esclarecer todas as suas dúvidas e pedir um orçamento!<br>
-          Alternativamente pode usar os seguintes contactos: Telemóvel: 961602726 | Email: geral@cuidamar.pt</p>'
+          Alternativamente pode usar os seguintes contactos: Telemóvel: 961602726 | Email: <a href="geral@cuidamar.pt">geral@cuidamar.pt</a></p>'
     section: contact
     
 footer:
-    legal: "Privacy Policy"
+    legal: "Política de Privacidade"
     social:
       #- url: https://twitter.com
       #  icon: "fab fa-twitter"  

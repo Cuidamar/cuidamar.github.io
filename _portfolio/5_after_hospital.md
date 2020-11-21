@@ -1,7 +1,7 @@
 ---
 caption: #what displays in the portfolio grid:
   title: Acompanhamento no pós-alta Hospitalar
-  subtitle: Reintroduçao no dia a dia
+  subtitle: Reintroduçao no dia a dia<br><br>
   thumbnail: assets/img/portfolio/companionship_after_hospital.jpg
   
 #what displays when the item is clicked:
