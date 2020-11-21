@@ -13,12 +13,12 @@
 
 theme: jekyll-theme-cayman
 
-url    : "" # the base hostname & protocol for your site, e.g. http://example.com
+url    : "https://cuidamar.pt" # the base hostname & protocol for your site, e.g. http://example.com
 baseurl: "" # the subpath of your site, e.g. /blog
 
-title      : CuidAmar 
+title      : CuidAmar - Cuidamos com Amor
 email      : geral@cuidamar.pt #this is also the email contact forms will go to
-description: "CuidAmar"
+description: "A sua empresa de prestação de serviços de saúde que dispõe de cuidados especializados de Enfermagem ao Domicílio."
 author     : CuidAmar
 logo:     #optional, defaults to site title
   path: assets\img\cuidamar_logo.png
